@@ -14,6 +14,7 @@ INSERT INTO STUDENTS (ST_ID, ST_NAME, ST_LAST) VALUES
 (2, 'Shahnur', 'Isgandarli'),
 (3, 'Natavan', 'Mammadova');
 
+-- Insert data into the INTERESTS table
 INSERT INTO INTERESTS (STUDENT_ID, INTEREST) VALUES
 (1, 'Tennis'),
 (1, 'Literature'),
